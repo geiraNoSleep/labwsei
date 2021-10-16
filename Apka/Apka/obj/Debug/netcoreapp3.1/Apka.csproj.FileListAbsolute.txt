@@ -1,0 +1,14 @@
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\bin\Debug\netcoreapp3.1\Apka.exe
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\bin\Debug\netcoreapp3.1\Apka.deps.json
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\bin\Debug\netcoreapp3.1\Apka.runtimeconfig.json
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\bin\Debug\netcoreapp3.1\Apka.runtimeconfig.dev.json
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\bin\Debug\netcoreapp3.1\Apka.dll
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\bin\Debug\netcoreapp3.1\Apka.pdb
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\obj\Debug\netcoreapp3.1\Apka.csproj.AssemblyReference.cache
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\obj\Debug\netcoreapp3.1\Apka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\obj\Debug\netcoreapp3.1\Apka.AssemblyInfoInputs.cache
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\obj\Debug\netcoreapp3.1\Apka.AssemblyInfo.cs
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\obj\Debug\netcoreapp3.1\Apka.csproj.CoreCompileInputs.cache
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\obj\Debug\netcoreapp3.1\Apka.dll
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\obj\Debug\netcoreapp3.1\Apka.pdb
+D:\Users\Kamil.Babik\source\repos\labwsei2\Apka\Apka\obj\Debug\netcoreapp3.1\Apka.genruntimeconfig.cache
